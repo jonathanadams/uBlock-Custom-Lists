@@ -1,0 +1,4 @@
+! Jun 20, 2024 https://www.amboss.com
+www.amboss.com##.BottomBanner_BottomBanner__DNRxH
+www.amboss.com###article-content:remove-class(article_article-blury-content__l92EX)
+
