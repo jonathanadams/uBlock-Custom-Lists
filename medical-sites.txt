@@ -1,3 +1,8 @@
+[Adblock Plus 2.0]
+! Title: Jonathan Adams - Medical Sites
+! Expires: 7 days (update frequency)
+! Last modified: Thu, 20 Jun 2024 20:58:00 +0100
+
 ! Jun 20, 2024 https://www.amboss.com
 www.amboss.com##.BottomBanner_BottomBanner__DNRxH
 www.amboss.com###article-content:remove-class(article_article-blury-content__l92EX)
