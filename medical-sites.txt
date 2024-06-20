@@ -2,3 +2,6 @@
 www.amboss.com##.BottomBanner_BottomBanner__DNRxH
 www.amboss.com###article-content:remove-class(article_article-blury-content__l92EX)
 
+! 2024-06-20 https://gpnotebook.com
+gpnotebook.com##.popup-wrapper-overlay.sign-in-modal-overlay.popup-overlay
+gpnotebook.com##body:remove-attr(style)
